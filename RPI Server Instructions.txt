@@ -5,3 +5,15 @@ https://www.youtube.com/watch?v=p_WNAojvAao
 nano ~/.bash_aliases
 . ~/.bash_aliases
 
+# Allow Boot FROM SSD
+https://www.youtube.com/watch?v=a8nzkLryGmM&t=254s
+sudo apt update
+sudo apt full-upgrade
+sudo rpi-update
+reboot
+transfer to ssd
+sudo raspi-config # boot order from SSD first
+
+# internet traffic monitoring
+https://github.com/geerlingguy/internet-pi
+https://www.youtube.com/watch?v=rIUc4C4TXog&t=276s

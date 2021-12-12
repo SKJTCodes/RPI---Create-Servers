@@ -4,6 +4,9 @@ https://pimylifeup.com/raspberry-pi-samba/
 # test if server config is correct
 testparm
 
+# creat folders and change permissions
+https://www.makeuseof.com/set-up-network-shared-folder-ubuntu-with-samba/
+
 # samba user management
 https://www.thegeekdiary.com/how-to-add-or-delete-a-samba-user-under-linux/
 

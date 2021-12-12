@@ -17,3 +17,7 @@ sudo raspi-config # boot order from SSD first
 # internet traffic monitoring
 https://github.com/geerlingguy/internet-pi
 https://www.youtube.com/watch?v=rIUc4C4TXog&t=276s
+
+# install npm
+make sure to change wget link from 'xz' to 'gz'
+https://www.makersupplies.sg/blogs/tutorials/how-to-install-node-js-and-npm-on-the-raspberry-pi

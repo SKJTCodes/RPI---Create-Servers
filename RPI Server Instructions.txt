@@ -5,13 +5,3 @@ https://www.youtube.com/watch?v=p_WNAojvAao
 nano ~/.bash_aliases
 . ~/.bash_aliases
 
-# Create SAMBA Server
-https://pimylifeup.com/raspberry-pi-samba/
-# test if server config is correct
-testparm
-# samba user management
-https://www.thegeekdiary.com/how-to-add-or-delete-a-samba-user-under-linux/
-# list smb users
-sudo pdbedit -L -v
-# samba docs
-https://www.samba.org/samba/docs/using_samba/ch09.html

@@ -1,0 +1,8 @@
+# Allow Boot FROM SSD
+https://www.youtube.com/watch?v=a8nzkLryGmM&t=254s
+sudo apt update
+sudo apt full-upgrade
+sudo rpi-update
+reboot
+transfer to ssd
+sudo raspi-config # boot order from SSD first

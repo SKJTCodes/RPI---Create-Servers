@@ -1,0 +1,2 @@
+# Install Mariadb for mysql
+https://raspberrytips.com/install-mariadb-raspberry-pi/

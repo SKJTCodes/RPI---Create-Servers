@@ -1,0 +1,4 @@
+# install npm
+make sure to change wget link from 'xz' to 'gz'
+
+https://www.makersupplies.sg/blogs/tutorials/how-to-install-node-js-and-npm-on-the-raspberry-pi

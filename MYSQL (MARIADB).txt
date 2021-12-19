@@ -1,2 +1,9 @@
 # Install Mariadb for mysql
 https://raspberrytips.com/install-mariadb-raspberry-pi/
+
+# edit MariaDB to allow remote access
+https://kitflix.com/connect-to-mysql-on-raspberry-pi-from-windows-pc/
+
+# Change User Password - https://linuxize.com/post/how-to-change-mysql-user-password/
+ALTER USER 'user-name'@'localhost' IDENTIFIED BY 'NEW_USER_PASSWORD';
+FLUSH PRIVILEGES;
